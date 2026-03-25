@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Task2.1P_SIT305</string>
+    <string name="app_name">Task2.1P_SIT305 Travel Companion App</string>
+    <string name="app_title">Travel Companion App</string>
+    <string name="button">Convert</string>
+    <string name="currency_conversion_title">Currency Conversion</string>
+    <string name="enter_unit">Enter Unit Here</string>
+    <string name="TO">TO</string>
+    <string name="fuel_efficiency">Fuel Efficiency and Distance Conversion</string>
+    <string name="temperature_conversion_title">Temperature Conversion</string>
+    <string name="return_button">Return to Home</string>
 </resources>

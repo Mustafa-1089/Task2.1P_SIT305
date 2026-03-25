@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sourceUnitOptions">
+        <item>AUD</item>
+        <item>USD</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>EUR</item>
+    </string-array>
+    <string-array name="destinationUnitOptions">
+        <item>AUD</item>
+        <item>USD</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>EUR</item>
+    </string-array>
+    <string-array name="category_units">
+        <item>Fuel Efficiency</item>
+        <item>Volume</item>
+        <item>Distance</item>
+    </string-array>
+    <string-array name="fuel_unit_options">
+        <item>mpg</item>
+        <item>Km/L</item>
+    </string-array>
+    <string-array name="volume_unit_options">
+        <item>Gallon</item>
+        <item>Liters</item>
+    </string-array>
+    <string-array name="distance_unit_options">
+        <item>Nautical Mile</item>
+        <item>Kilometers</item>
+    </string-array>
+    <string-array name="temperature_options">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
